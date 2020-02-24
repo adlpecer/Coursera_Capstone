@@ -1,0 +1,650 @@
+Neighborhood,Neighborhood Latitude,Neighborhood Longitude,VenueID,Venue,Category,Price,Rating,Likes,Borough
+el Raval,41.37951760000001,2.1683678,53b5d201498ea7ec7d3f3b9d,Arume,Spanish,2,9.1,364.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,52ffc95e498e5f219673b9d1,A Tu Bola,Tapas,1,8.9,389.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4e1c064c81dc8ea8b58cc50c,Cera 23,Spanish,2,8.9,351.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,53347f6611d28af55005835a,La Monroe,Spanish,2,8.8,396.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b4d9934f964a5209bd426e3,Las Fernández,Mediterranean,2,8.9,141.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,57110ce0cd109e0bbc2ba826,Teddys - Libanés,Fast Food,1,8.4,15.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b581f3ef964a5208a4b28e3,Guixot,Spanish,1,8.4,186.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b7223aff964a520a9702de3,Bar Resolís,Tapas,2,8.1,80.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,5927f4ce6a595012a6f798db,Tandoori Nights,Indian,2,8.3,34.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4e501cbfd4c0b6da5d884fed,Carlota Akaneya,Japanese,2,8.8,210.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4d0faea4ba378cfa76b77293,Bacaro,Italian,3,8.7,66.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4e7a43831f6e07f918147562,El Pachuco,Mexican,2,9.2,539.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b2beb83f964a520b6bd24e3,Rosa del Raval,Mexican,2,8.1,563.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4d6eb80a1e76f04dfff942eb,Asian Restaurant,Asian,2,8.7,32.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,57449cb5498ec71de8a21654,Pasta Madre,Italian,2,8.2,32.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,53ce2dab498e1ba03f2717d1,Bar Clemen-s,Mediterranean,2,8.6,14.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4c9cf0e0542b224bac44e59f,Bismillah Kebabish,Falafel,1,8.4,225.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b70933af964a520ee222de3,O'Toxo: 3 Hermanos,Spanish,2,7.6,90.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4c88d9e510523704e797c3f1,Cañete,Tapas,3,9.1,787.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4dd26f6bd16465f3f951bd58,Clemen's,Spanish,2,8.5,21.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4c568414cc96c9b6eae2762e,Bar Boqueria,Spanish,2,8.7,125.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b7ea305f964a52093f62fe3,El Quim de la Boqueria,Tapas,2,9.0,395.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4bc9b0ddfb84c9b6d46a1b3e,Kiosko Universal,Seafood,3,8.7,153.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4adcda53f964a520534221e3,Pinotxo,Mediterranean,2,8.7,216.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4adcda54f964a520a64221e3,Sésamo,Vegetarian / Vegan,2,8.3,83.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4b8bce34f964a5203fac32e3,Bouzu,Japanese,2,8.5,271.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,55428cd2498ed28f98ac8a34,Tabarlot,Tapas,3,8.4,56.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,5055b8ade4b0f81fa14c586e,Els Sortidors del Parlament,Tapas,2,8.4,202.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,595d34e02955136020a762a2,My Fu*king Restaurant,Spanish,2,8.5,28.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,55a79b61498e189cc56f3852,Agust Gastrobar,Mediterranean,2,8.4,102.0,Ciutat Vella
+el Raval,41.37951760000001,2.1683678,4adcda4ef964a520954021e3,Bar Lobo,Tapas,2,8.4,1160.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4c02b3419a7920a149d4ce79,La Alcoba Azul,Spanish,2,9.1,440.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4b106edaf964a520517023e3,Pla Restaurant,Spanish,3,8.7,196.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4c379c4fdfb0e21e431cada8,Bodega La Palma,Tapas,3,8.6,77.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4bfc2509e9d8c928581cb2c7,CatBar,Vegetarian / Vegan,2,8.5,259.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4b129064f964a520d98a23e3,Shunka,Japanese,3,8.8,281.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4b649fc2f964a5203dc32ae3,La Cerería,Vegetarian / Vegan,2,8.5,96.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,585470e85e7896538036656e,Golfo de Bizkaia Pi,Tapas,3,8.7,16.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,50241352e4b0862bdc677715,Ziryab,Tapas,3,8.9,130.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,51031131e4b0f8cf1130dd61,Sensi Bistro,Tapas,3,8.8,119.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4b6e93e5f964a520b3c22ce3,Koy Shunka,Japanese,4,9.0,253.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,51694f22e4b00861de4b5b59,Rasoterra,Vegetarian / Vegan,2,8.3,122.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4adcda4df964a5201b4021e3,Irati Taverna Basca,Tapas,3,8.7,276.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4da750331e725f1229807d0a,Maoz Vegetarian,Falafel,1,8.8,205.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4d02924bc2e53704aae2ab67,Macchina Pasta Bar,Italian,1,9.1,729.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4adcda53f964a520564221e3,Senyor Parellada,Mediterranean,3,8.1,177.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4b85902af964a520a26531e3,Bar del Pla,Spanish,2,8.8,644.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4adcda4ef964a520444021e3,Sagardi BCN Gòtic,Tapas,2,8.3,283.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,51e30cef498e129a76c89e95,Palosanto Tapas Bar,Tapas,1,8.2,110.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,551bbc4a498e727f54099805,El Pintxo de Petrixol,Tapas,3,8.3,84.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,55be6b19498ed18b2b975aa1,Gourmet Tapas by Sensi,Tapas,3,8.7,96.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,4d7b6c6173ca5481c4db4a7c,Sports Bar,Italian,1,8.8,310.0,Ciutat Vella
+el Barri Gòtic,41.383394700000004,2.1769119,509c2b66e4b0a0263d94f7d9,Bodega Biarritz,Tapas,3,8.9,81.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b7a8de2f964a520fa302fe3,La Cova Fumada,Tapas,2,8.9,190.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b9165c4f964a5202bb933e3,Somorrostro,Spanish,2,8.8,397.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,53249684498ee054d4599642,Rumbanroll,Mediterranean,2,8.7,65.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,5522b344498e10a5a3863913,Mesōn Barceloneta,Paella,3,8.6,48.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b7a9f07f964a520f4332fe3,La Bombeta,Tapas,1,8.3,325.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,58555fc8da54ae2d88c25467,el bar del Basko,Tapas,3,8.3,17.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4ba0d5c6f964a520ee8037e3,Can Maño,Mediterranean,2,8.2,149.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b695eb0f964a52035a02be3,Jai-Ca,Tapas,2,8.2,635.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4c4740850f5aa5938e4e7d76,Bitácora,Tapas,2,8.5,311.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,53f4d9cd498e887b682a062a,La Pampa,Argentinian,2,8.4,31.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b82c0b2f964a5208be230e3,Bar Electricitat,Tapas,3,8.0,160.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4bc0e85a4cdfc9b621bf9321,Cal Papi,Mediterranean,2,7.9,63.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4adcda54f964a520a84221e3,Can Solé,Spanish,2,8.0,84.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,501cf838e4b00debc91e9c68,L'Ostia,Mediterranean,2,7.7,179.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,51b86629498ef1f765490edc,Barraca,Paella,3,7.9,202.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b980ed8f964a5207e2935e3,Segons Mercat,Tapas,2,7.6,77.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,5b159b46bf7dde002c3c9c86,El Pintxo,Spanish,2,7.5,11.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4be6c36abcef2d7f306b05e5,Paco Alcalde,Paella,3,8.3,39.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4d06551c7ee8a0904c05f354,1881 per Sagardi,Tapas,3,8.1,191.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4e7dee8bbe7bf691b684f5e5,Can Ros,Paella,3,8.3,37.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4d598f3556f2b60c9f797a2f,Port-Vell Restorante,Mediterranean,2,7.5,91.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4adcda55f964a520ed4221e3,Magatzem del Port,Spanish,2,7.9,16.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4cd6c7ec886cb60cb4968b89,La Casita,Italian,2,7.4,7.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4adcda53f964a520854221e3,Restaurante Salamanca,Paella,2,7.6,548.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4adcda53f964a520814221e3,Can Ramonet,Seafood,3,7.4,101.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4c1379da82a3c9b6807bfbf8,L'Arròs,Paella,3,7.4,70.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,527686d111d20ab1ace6b9de,Lolita Barceloneta,Tapas,2,7.7,68.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,56e2d46f498e405301b74df9,Green Spot,Vegetarian / Vegan,3,8.8,160.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4ba40ea0f964a520c17c38e3,Can Majó,Paella,3,7.8,172.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b62e992f964a52090582ae3,La Mar Salada,Paella,3,8.4,215.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4bb3a387a32876b08fff01fe,El Filferro,Mediterranean,2,7.2,94.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b645188f964a52053aa2ae3,Xup Xup,Mediterranean,2,7.4,118.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4b617d45f964a5205d152ae3,El Nou Ramonet,Spanish,2,7.3,47.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,5103ea12e4b05ec8562d2fd5,Can Santi,Tapas,3,7.3,7.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,54a152f2498e8153c21bae16,Las Fritas,Fast Food,1,7.2,33.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4bd431cecaff9521684bd6f0,El Merendero de la Mari,Seafood,3,7.6,157.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4adcda55f964a520f24221e3,La Gavina,Seafood,3,7.6,172.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4c1d30a3b4e62d7f1a58dc93,Ca La Montse,Mediterranean,2,7.0,26.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4d604f545b276dcb0f2d14c6,El Rey de la Gamba,Seafood,3,7.4,422.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4bc49a05f8219c748d92b710,Ca la Nuri,Mediterranean,2,7.8,192.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,53960d99498e57e1569a62f2,La Fresca,Spanish,2,6.9,40.0,Ciutat Vella
+la Barceloneta,41.3806533,2.1899273999999997,4ef3a0930aaf6577fd1334c8,BarCeloneta Sangria Bar,Vegetarian / Vegan,1,7.3,55.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4bdef071921d952171096932,Le Cucine Mandarosso,Italian,2,8.6,409.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,5a88398af427de51874f25ca,Barestaurant L’Univers,Tapas,3,8.2,11.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4b107d95f964a5209b7123e3,Cuines de Santa Caterina,Mediterranean,2,8.2,733.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4b73066bf964a52088962de3,Mosquito,Asian,1,8.7,961.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,54b25f1b498ec7c488e87ba2,Casa Lolea,Spanish,2,9.3,1124.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4b7dcbc0f964a52027d52fe3,Restaurant Montiel,Mediterranean,3,8.9,84.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,59d4a2eb772fbc2c0ddaad16,Flax & Kale Passage,Vegetarian / Vegan,2,8.6,83.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,57c5dee7498e9c3641fff78e,Costa Pacifico Cevicheria Mexicana,Mexican,1,8.7,100.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,5555251d498e985065f7db92,Santagustina,Tapas,3,8.5,32.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4adcda4ef964a520584021e3,El Xampanyet,Tapas,1,9.1,1057.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,548a0bf1498e7b9f35b0ef0d,Bodega La Puntual,Tapas,2,8.9,259.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4c8a3c569ef0224b4edc587b,Tapeo,Tapas,3,8.7,143.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,515d6a66e4b01a47755a6315,Las Sorrentinas,Italian,2,8.6,171.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,4b9aa243f964a52056c835e3,Tantarantana,Tapas,3,8.1,203.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,506f35e2e4b0383048e31a5f,Bar Celta Pulpería,Tapas,3,8.4,144.0,Ciutat Vella
+"Sant Pere, Santa Caterina i la Ribera",41.3860095,2.1778381,5af7133d033693002e463463,Taquería Canta Y No Llores,Mexican,1,8.5,15.0,Ciutat Vella
+el Fort Pienc,41.3959246,2.1823245,55d39c37498e9304eb390114,La Catrina de Barcelona,Mexican,1,8.0,121.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,4c33249a213c2d7fd667365d,Chenji: Qi Xin Mian Guan (齊心面館) (Chen Ji),Chinese,1,8.2,735.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,4da892a193a021ab13cd24e2,Peix d'Or,Mediterranean,2,7.7,56.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,4adcda52f964a520314221e3,Gorría,Spanish,3,8.5,69.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,4adcda55f964a520194321e3,Manairó,Mediterranean,2,8.2,62.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,52a47f3311d21f22f2f25764,Kaixuan,Chinese,1,7.7,77.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,4db9d73ef7b144688feb61d0,Ying Bing Jiu Lou,Chinese,1,7.5,65.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,52e27eef498e8bd0968ab80a,Ruixian Sushi,Sushi,2,7.2,8.0,Eixample
+el Fort Pienc,41.3959246,2.1823245,55c8ff31498e219694146b78,Andalucía,Spanish,2,5.8,4.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4b5a10d1f964a5201dab28e3,La Paradeta,Seafood,2,8.6,415.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4d931e425cf5236ae3175ba3,Don Angelo,Italian,2,8.5,41.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,588d0bdfd6fe907aceeafe20,La Trocadero,Vegetarian / Vegan,2,8.4,36.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4b92718cf964a520e5f933e3,El Felino,Italian,2,8.2,32.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4e008e80483bd352f71e7d54,La Taquería,Mexican,2,8.2,400.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,5176c865e4b05e6502956458,Tuscania Food & Wine,Mediterranean,2,8.0,59.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,50acfa26e4b0b639ca69263a,La Cantina Mexicana,Mexican,2,7.9,272.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,5aa52f5165cdf87dfb991197,Ottantotto,Italian,2,8.1,8.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,590468da446ea6092961304b,Zed,Tapas,3,7.8,30.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,5a8996bbe2d4aa71dfb56d59,Bicos,Spanish,2,8.6,22.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,53be9be8498e4c32e8f12588,Buenas Migas,Italian,2,7.5,54.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4ca1c78e46978cfaa39fbe7f,Café Parc Belmont,Mediterranean,2,7.9,5.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,51cc9786498e4ba7e3e7d712,Wakasa,Japanese,2,8.4,58.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4bd6d0f029eb9c74699595e1,Arc Iris,Vegetarian / Vegan,2,8.2,115.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,59d9275e829b0c160ae77b4d,El gallo de Oro,Mexican,1,7.6,16.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4cab89f6965c9c74248acbfa,Ta Mi,Japanese,2,7.5,55.0,Eixample
+la Sagrada Família,41.403478899999996,2.174410333009705,4cd410999828b60cb1e6d884,Potala,Asian,2,7.6,20.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,5ac7f1e1a35dce591a4ea660,Vinitus Petit,Tapas,3,9.1,23.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4d02c69728926ea8fba161c2,9 Reinas,Argentinian,3,8.6,148.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,5a06154bdee7706dd0a60fdf,Sato i Tanaka,Japanese,2,8.7,18.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,562402e5498e6e02f5fed3b8,La Paradeta,Seafood,3,8.7,169.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4c3da94eb169c9b6a0474768,El Restaurante del Majestic,Mediterranean,2,8.3,14.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4b58bec2f964a520ba6828e3,Palermo,Tapas,3,8.2,65.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4b746dd3f964a5200bdc2de3,La Muscleria,Seafood,2,8.5,306.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,512e486fe4b0a2342236c318,Minamo,Japanese,2,8.5,20.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,50489a45e4b0424d590afb82,Jardín del Alma,Mediterranean,2,8.6,19.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4b800126f964a520254a30e3,Miu Japonés,Japanese,2,8.1,477.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4ba540cef964a52014f238e3,Bembi,Indian,2,7.8,156.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4ba7c0f3f964a5204ab039e3,La Cuina d'en Garriga,Mediterranean,2,8.6,148.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4b423268f964a520b4ce25e3,La Rita,Mediterranean,1,7.6,176.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4bc5b4866a3e9c74d827f648,Moments at Mandarin Oriental,Spanish,2,8.1,64.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4e386208d164374eb690728c,Betlem Miscelánea Gastronómica,Tapas,2,8.6,485.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,53cfacd3498e3ae4a329608f,El Nacional,Spanish,2,9.0,2469.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,5504a9e8498ef793c4a32e6d,Tonkotsu Ramen & Asian Street Food,Japanese,2,7.5,81.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,55e324f5498e88af42e8709b,La Taperia de el Nacional,Tapas,3,8.8,162.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,587cab1ad6fe904748920491,La Menuda - Craft Beer & Crazy Food,Tapas,3,8.1,44.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4adcda55f964a520014321e3,Restaurante Lasarte,Spanish,2,8.2,62.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,4d9096ae6174a093e02bf6e3,Reserva Ibérica,Spanish,2,8.9,42.0,Eixample
+la Dreta de l'Eixample,41.39412395,2.166470697643847,563e3dc9cd10bb44c566b7d2,El Nacional Barra d'Ostres,Seafood,3,8.2,14.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,531883ab498ed6efa12aa19f,Buenos Aires Grill Restaurant,Argentinian,3,8.8,265.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda4df964a5200a4021e3,Taktika Berri,Spanish,3,8.8,170.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4cb8bd69bac937049589df7c,Osmosis,Mediterranean,2,8.6,68.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,57fcbe00498e813d8f4402af,Robata,Japanese,2,8.9,156.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4c06b55f8b4520a10fd48597,Porvenir,Spanish,2,8.9,160.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4c0fecb9ce640f472e1c3952,Semproniana,Mediterranean,2,8.7,169.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda54f964a5209b4221e3,Out of China,Chinese,2,7.8,173.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4bfff119c30a2d7f3bb3111d,Bosque Palermo,Spanish,2,7.8,122.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4d972183e07ea35db399d002,A'Palloza,Spanish,2,8.5,24.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,55e5b535498eececafe01882,Ukai,Japanese,2,7.8,22.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,5929b0005455b23c349d5bf8,L'enric,Mediterranean,2,8.1,18.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4c064434517d0f47b1a9f515,Tofu Català,Japanese,2,8.1,28.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4b7af865f964a52032492fe3,Gresca,Spanish,2,8.2,74.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4bc4defe4cdfc9b6ac499921,Tempura-Ya,Japanese,2,8.7,295.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,59b1cb099deb7d19c18b6801,Takumi Grill&Sushi,Japanese,2,7.6,11.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,5beca4f857a537002c412254,TRIBO SUSHI & COCKTAILS,Sushi,2,8.0,6.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4b7314c0f964a520319a2de3,O Retorno,Seafood,2,8.8,323.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda4df964a520fa3f21e3,La Flauta,Tapas,2,9.1,1095.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4ff7308ae4b0fb4a83464ece,Telefèric,Tapas,3,8.3,162.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,58fbacf2dd70c5619b3c20e1,PEPA PLA,Tapas,3,8.0,12.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda55f964a5201a4321e3,Racó d'en Cesc,Mediterranean,2,8.9,106.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,591626fcd7627e2b6b420f48,Mako,Japanese,2,8.0,20.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,58303e44c5f8a71707d84346,La Adelita Botanero,Mexican,1,7.4,23.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,505a2a0ae4b04e53f6ba5554,Akashi Gallery,Japanese,2,8.3,132.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda54f964a520b14221e3,Alba Granados,Spanish,3,7.6,114.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,50d61e11e4b0f0bf4b1abd44,Futami,Japanese,2,8.4,56.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4adcda4ef964a5207a4021e3,Paco Meralgo,Tapas,2,8.8,536.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,5826d7ce042fc73e596d3ad3,Champanillo,Fast Food,1,8.2,24.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,55a9450a498e3cbb6ce19a5b,La Medusa,Seafood,3,7.4,6.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,533ab120498e6ecc8a9a48fe,O Retorniño,Spanish,2,8.6,76.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4e5f8dd3b0fb6ae62bbad249,Casa Jaime,Tapas,2,7.8,95.0,Eixample
+l'Antiga Esquerra de l'Eixample,41.38876465,2.1565973621610133,4ba10c42f964a520849237e3,La Taverna del Clínic,Tapas,4,8.2,128.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4be31c00660ec928a42bcb3b,Can Vallés,Mediterranean,2,8.6,49.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4ddd0dbc45ddaa53edb67868,ArA Café,Spanish,2,7.9,10.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,51ea8fa4498e8a37f6607fe7,Yogi Bar,Indian,2,7.9,14.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,5657133d498e4fd2337948a0,Thali,Indian,2,7.8,28.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4c950a7e72dd224be0d69f91,Una Mica de Japó,Japanese,2,8.4,208.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,54011beb498e44f753622bda,Tandoor,Indian,2,8.1,122.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4c76a750db52b1f710167cdc,Morro Fi,Tapas,2,8.6,287.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,597dd5f5c824ae7517bc7945,Abanik,Mediterranean,2,7.7,16.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,577eca7a498e1086c17417c5,Scala spazio al gusto,Italian,2,7.5,9.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4c9e60da2fb1a1433601ea40,Nectari,Mediterranean,2,7.3,37.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,51bb9240498e640caaa99936,"""El Bar"" Barcelona",Tapas,3,7.2,35.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,5a1c7ac04186863e2c319067,Lee,Chinese,1,7.2,11.0,Eixample
+la Nova Esquerra de l'Eixample,41.3828159,2.1499663437362098,4d19f7e7401db60c6937fea4,Restaurant Mediterrani,Mediterranean,2,7.1,22.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4be5cac7bcef2d7f7f5404e5,Rekons,Argentinian,1,9.0,600.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4b9e8926f964a520c0ec36e3,El Laurel,Argentinian,1,8.7,224.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,5bd36f08a6031c002c98e2a9,Makekosa,Italian,2,8.2,8.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4ea9b39bb803cf1ffacded8e,Gat Blau,Mediterranean,2,9.0,89.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,555e0d44498e8bc25449f239,Es Tastet,Mediterranean,2,8.0,9.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4dbc7e7ecda109aa6c9d79d0,Tien-Tsing,Chinese,1,7.9,7.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,57605c77498eccf0bf3b212b,Casa Dorita,Mediterranean,2,8.1,41.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4d63dfa86973a35dbc6bacea,La Bodega d'en Rafel,Spanish,1,8.9,170.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4c5891ad04f9be9ae840ed60,Can Cargolet,Spanish,2,7.6,23.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,5cb0f0ea1987ec002cf5b941,La Güerita Mexicana,Mexican,1,8.2,6.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,5b4a4aff180b91002c41b4e0,Santo Porcello,Italian,2,7.5,12.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4e983d57722ed8d43b91f3f5,Gelida,Tapas,3,8.1,41.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4c7ba7d4566db60c16414b0e,Wok Dao,Asian,2,7.5,107.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,50acc539582f5b1b8d732616,Tapería Ordesa,Tapas,3,7.4,92.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,57209481498efe7e798f3a2d,La Barra del Gourmet,Tapas,3,7.7,8.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4b94efa6f964a520618834e3,Ca l'Estevet,Mediterranean,2,8.9,43.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4adcda55f964a5201d4321e3,El Racó de l'Agüir,Mediterranean,2,8.7,65.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,5388c260498e2d6da87eb89b,Anardi,Tapas,1,8.5,50.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,58138ee738fa483089f9064e,La Consentida,Mediterranean,2,7.4,7.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4fd894e7e4b0175261698c85,Mount Everest,Indian,2,7.3,26.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,54c42401498ebc321e1bd44f,Cuina Deu,Chinese,1,8.1,63.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4cc57a81bde8f04d2946b14b,Macrobiotic Zen,Vegetarian / Vegan,1,8.1,37.0,Eixample
+Sant Antoni,41.38057835,2.160101765316341,4c03b61e310fc9b6d937c661,Amaltea,Vegetarian / Vegan,2,7.5,68.0,Eixample
+el Poble-sec,41.3728061,2.1619718,4b6817a2f964a520e4662be3,Xemei,Italian,3,8.9,193.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4bd738260b779c7429b004a0,Casa José Montalbán,Seafood,3,8.7,19.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,5990a98946e1b67096e0ee9d,Boca Oreja,Spanish,2,8.3,7.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,516f08a7498efec71b31b5d2,La Tasqueta de Blai,Tapas,1,9.0,947.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4b58677df964a5203f5628e3,La Bella Napoli,Italian,2,8.3,226.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,5a359979535d6f0cd0798a9f,Macchina,Italian,2,8.7,29.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4adcda4df964a520064021e3,Quimet & Quimet,Tapas,2,9.1,675.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4cf69b9ae308236ae625e7ac,Taberna Blai Tonight,Tapas,1,8.2,438.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4e22c530d16474063213d7cb,Koska,Tapas,2,8.6,182.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,53774ffa498e24ca1f966c06,La Chana,Tapas,3,8.9,30.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,53960847498e65d34f3a9a9c,Pincho J,Tapas,3,7.8,86.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4db2f5980cb6729b6a750147,Brisas do Sil,Spanish,2,7.8,21.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4fe62db4e4b0b901afff72d4,Ikibana,Japanese,3,8.4,448.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4e075fac8130709eafbcd4f8,Bar-celona Restaurant,Mediterranean,2,7.7,7.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,53a1425c498e96b9f2540b55,Palo Cortao,Tapas,3,8.9,132.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,528142f311d2b57dfcb168f3,Blai 9,Tapas,2,7.7,228.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,56eead48498ef70097a0c8a3,Platilleria,Tapas,3,7.6,26.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4b915f12f964a5200eb733e3,La Churre,Spanish,2,7.7,18.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,5b8ace72a0215b002ca704ce,BENZiNA,Italian,2,7.6,12.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,5931cdfa46e1b6527928a498,Asian Ways,Asian,2,7.8,20.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4f568b7ee4b03d89eafd059a,Jonny Aldana Bar,Tapas,1,7.9,133.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,4b76acbdf964a520cb572ee3,Xalet de Montjuïc,Mediterranean,2,7.3,134.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,551d2919498e6b5d875ed48f,Obsessions,Tapas,3,7.6,14.0,Sants-Montjuïc
+el Poble-sec,41.3728061,2.1619718,59287a0082a7501caf6be8c3,Sant Antoni Glorios,Tapas,3,7.4,33.0,Sants-Montjuïc
+la Marina del Prat Vermell,41.3538419,2.1423183999999997,4d99b7fe61a3a1cd10f4e942,Perancho Bar,Mediterranean,1,7.2,10.0,Sants-Montjuïc
+la Marina del Prat Vermell,41.3538419,2.1423183999999997,4cc6c597f49676b01a2d74d5,Mai Ona,Spanish,2,7.0,7.0,Sants-Montjuïc
+la Marina de Port,41.360296399999996,2.1375842,4bc1c55e4cdfc9b6af069521,Restaurante Maxi,Spanish,2,7.9,90.0,Sants-Montjuïc
+la Marina de Port,41.360296399999996,2.1375842,4dc5a6adb0fb5556ccf6eb44,Galician Grill,Spanish,2,7.3,15.0,Sants-Montjuïc
+la Marina de Port,41.360296399999996,2.1375842,4d3c0ca98edf37042b5daca5,Piripipao,Mediterranean,2,7.8,25.0,Sants-Montjuïc
+la Marina de Port,41.360296399999996,2.1375842,4da393b28c8d5941fbee490f,Acquit Ibèrics i Cafè,Spanish,2,7.4,13.0,Sants-Montjuïc
+la Marina de Port,41.360296399999996,2.1375842,4e2977e6149554c77443b907,WOK Mandarin,Asian,2,6.6,13.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4d56745ec6edf04d3d9dd0a2,Tapaspuma,Spanish,2,8.4,13.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4eea2dc74690034a7fd51f32,Bodega Amposta,Tapas,3,7.6,16.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4dfba697d164f73de7cde95a,Bodega Monumental,Tapas,2,8.1,171.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4c823c9fd8086dcb313b7452,Pablo Espaniola Tapes,Spanish,2,7.2,26.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4adcda55f964a520124321e3,Restaurant La Font de Prades,Mediterranean,2,7.4,58.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,557c16f3498edd5c546302dd,Tapes Tapas,Spanish,2,7.0,9.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,51488f0fe4b0d3716f9ad935,Cava & Jamon,Spanish,2,6.5,6.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4d7e17783633a093af23789d,Boca Loco,Tapas,3,6.0,7.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4f858154e4b04578ff922f72,La Llavor del Isi's,Spanish,2,6.1,13.0,Sants-Montjuïc
+la Font de la Guatlla,41.370782399999996,2.1446756000000002,4c34ae033896e21e93eeeb90,Restaurante Japonés Chi E I,Japanese,2,5.8,8.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,5859b29ed8e5592198f71734,Kimchi Mama,Asian,2,8.3,17.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,5297a76b11d2ab52764de108,Petit Pau,Mediterranean,2,8.5,42.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4bc8bda46501c9b62cce4029,Taverna La Parra,Mediterranean,2,7.9,39.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4c7cd92d48c6236a55a96211,Zarautz Taberna Vasca,Tapas,3,8.5,129.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4fb4bc21d5fbc56ee2d87446,La Mestressa,Tapas,2,8.5,159.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,530649b8498ea0a9d0018b46,Kop de Mà,Tapas,3,8.2,33.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4da83e205da3ef8bf158fbe0,Portonovo Silvestre,Spanish,2,7.7,44.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4b77043ff964a520ca742ee3,La Paradeta,Seafood,3,7.9,119.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4f1acf26e4b044fd34d431d7,Putxinel·lis,Italian,2,8.2,58.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4ba37733f964a5206c3f38e3,Teta de Monja,Italian,2,7.5,89.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4b7bd0ecf964a5202f6f2fe3,Rosat's Hosteleria I Snacks,Tapas,3,6.9,4.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,5ad3582383e380264870841e,Can Violí,Mediterranean,2,7.5,12.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,5817429738fa8201b21a0137,Jiaozi Dumplings,Asian,2,6.7,9.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4bcf7dcfcaff9521a349cdf0,Restaurante Filigrana,Mediterranean,2,6.9,11.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4fc7d3d3e4b0ddc4d1859ec7,Monja,Spanish,2,6.8,2.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,4d4961d95241236a94097504,Peking Siglo XXI,Chinese,1,6.6,7.0,Sants-Montjuïc
+Hostafrancs,41.3750877,2.1429334,5712b67a498e84909b5c13a2,KURAI,Japanese,2,6.3,9.0,Sants-Montjuïc
+la Bordeta,41.3691417,2.1373732999999997,53603b19498eb0bc93202ee5,Mitja Galta,Tapas,3,7.6,34.0,Sants-Montjuïc
+la Bordeta,41.3691417,2.1373732999999997,4bc37c622a89ef3b7418f588,La Tagliatella,Italian,2,7.1,49.0,Sants-Montjuïc
+la Bordeta,41.3691417,2.1373732999999997,4bdc458f63c5c9b6c0002b68,Arturo,Mediterranean,2,7.2,21.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4d55403b16a6b60c9f9f48f8,La Riera,Vegetarian / Vegan,2,8.8,40.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,53adda6e498e1d9ef5da5e45,La Cocina de Graciela,Mexican,1,8.4,56.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4dc14404fa764d03e9f9d021,Cal Siscu,Seafood,3,8.4,24.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4c0b8cd5009a0f47273cebbf,La Bodegueta de Cal Pep,Tapas,3,7.9,44.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4d403267f6ac2c0f9ea16235,Bar Restaurant Santilari,Tapas,3,7.3,16.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,5526701f498e2c1d64056d83,Hermanas de los Ancares,Spanish,2,6.9,6.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4c1bc2b9b9f876b02cca7a46,Shaheen Döner Kebab,Falafel,1,6.9,5.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4c31df127cc0c9b60c5bef9a,Niu Llar,Mediterranean,2,7.3,17.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,566c946f498e5c544997044a,Koyo,Sushi,2,7.0,31.0,Sants-Montjuïc
+Sants - Badal,41.375465999999996,2.1277096,4b96c2d4f964a520d1e234e3,Txalaparta,Tapas,3,7.3,40.0,Sants-Montjuïc
+Sants,41.37532879999999,2.1349117000000004,4b689a67f964a52058822be3,La Briciola,Italian,2,8.5,77.0,Sants-Montjuïc
+Sants,41.37532879999999,2.1349117000000004,5453fd31498e92ceba9316a2,Maido,Japanese,2,8.6,80.0,Sants-Montjuïc
+les Corts,41.385244,2.1328626,4b387177f964a520204e25e3,Fragments Cafè,Tapas,2,8.4,297.0,Les Corts
+les Corts,41.385244,2.1328626,4d00dfa00457b1f793933378,Leku,Spanish,2,7.9,42.0,Les Corts
+les Corts,41.385244,2.1328626,58a38c3a964d78438599f706,Ramen-ya Ajisen,Asian,2,7.9,39.0,Les Corts
+les Corts,41.385244,2.1328626,57c9ed3d498ec7dfd1cfe788,Punta Anguila,Mediterranean,2,8.7,10.0,Les Corts
+les Corts,41.385244,2.1328626,4d079f05c2e537043b4bca67,Restaurante Chino Hoy,Chinese,1,7.6,50.0,Les Corts
+les Corts,41.385244,2.1328626,56c77a6c498e0e3b44159a05,Sushifresh Restaurant,Sushi,2,7.9,24.0,Les Corts
+les Corts,41.385244,2.1328626,5808bf8b38fad613f4435b2e,Viridi,Vegetarian / Vegan,2,7.7,17.0,Les Corts
+les Corts,41.385244,2.1328626,4dc0318e4df0f8fd6b972a71,Jamón Jamón,Spanish,2,7.3,18.0,Les Corts
+les Corts,41.385244,2.1328626,4ea8030a775bfe48031b180f,4 Trocua,Italian,2,7.3,7.0,Les Corts
+les Corts,41.385244,2.1328626,5a19ebfbbb8d364038ba08fb,Alive,Vegetarian / Vegan,2,7.6,8.0,Les Corts
+les Corts,41.385244,2.1328626,4d95f4e90caaa1437dc16ab3,Mas Gourmets,Spanish,2,7.7,17.0,Les Corts
+les Corts,41.385244,2.1328626,4c0e3a887189c9288316d8b6,Lagunak,Spanish,2,7.4,22.0,Les Corts
+les Corts,41.385244,2.1328626,53b06f44498e4cf63ed4056d,El Jardí de Bambú,Sushi,2,6.6,13.0,Les Corts
+les Corts,41.385244,2.1328626,4c6eee2bfa49a1cd9370a1e3,Café Roslin,Mediterranean,2,6.5,19.0,Les Corts
+les Corts,41.385244,2.1328626,4e4e3a96d4c0b6da5d6be56f,Masedy,Spanish,2,6.6,5.0,Les Corts
+les Corts,41.385244,2.1328626,4bc8ce750ee49521d7615203,Ría del Barbanza,Spanish,2,6.2,16.0,Les Corts
+Pedralbes,41.3901401,2.112218,4adcda55f964a520084321e3,Restaurante Tritón,Spanish,2,7.7,38.0,Les Corts
+Pedralbes,41.3901401,2.112218,4adcda53f964a520674221e3,Jardí de l'Abadessa,Mediterranean,2,7.5,123.0,Les Corts
+Pedralbes,41.3901401,2.112218,4c1b63b9b9f876b0bd187a46,Casa De Cantabria,Spanish,2,6.2,8.0,Les Corts
+Pedralbes,41.3901401,2.112218,4cbd8c28d78f46881307ce73,Pati Blau,Mediterranean,2,6.2,8.0,Les Corts
+Pedralbes,41.3901401,2.112218,4be0612598f2a593350bc25a,Divina Pedralbes,Italian,2,5.6,15.0,Les Corts
+Sarrià,41.399373,2.1215125,4b6203fcf964a520b1302ae3,Vivanda,Mediterranean,2,8.3,91.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,593bf2c5f0b490219438e4c9,Nomo Sarria,Japanese,2,8.0,14.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4bbde403a8cf76b06849b2fd,Bar Monterrey,Fast Food,1,7.6,21.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4c2c8d6657a9c9b6618df767,Gouthier,Seafood,3,8.0,33.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4b55d3f8f964a520cdf127e3,Bar Tomás,Tapas,2,7.5,371.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4d82070c6476a09395f91953,El Canalla,Tapas,3,7.2,73.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,539b00a1498e71ce2a4dbb4a,Le Ciel de Sarrià,Mediterranean,2,7.8,6.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4e694e0db993038735766678,El Nou Restaurant,Mediterranean,2,6.9,9.0,Sarrià-Sant Gervasi
+Sarrià,41.399373,2.1215125,4cad710b18a3199cba795bfb,El Clandestino,Spanish,2,6.8,10.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4adcda53f964a520684221e3,Acontraluz,Mediterranean,2,8.4,67.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4b7ea536f964a520fef62fe3,Restaurante Dos Torres,Spanish,2,8.3,92.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4fb6b273e4b07f06a7c5c25b,Luri,Japanese,2,7.5,60.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4c50969ed797e21e19adad7a,La Focaccia,Italian,2,7.0,9.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,5185614d498e6f60206642ad,Mishima Sushi Bar,Japanese,2,7.6,32.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4bfed0f7369476b02fe88c1f,Sushi Buïgas,Sushi,2,7.3,100.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4ef482032c5b6efc3710fe66,Terraza Dos Torres,Spanish,2,6.8,6.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4e6dbcd3b9932d7f63a1b347,Che Burritos,Mexican,1,6.9,16.0,Sarrià-Sant Gervasi
+les Tres Torres,41.397610799999995,2.1311837000000002,4b36c03df964a520d33b25e3,Panchito,Mexican,2,6.3,32.0,Sarrià-Sant Gervasi
+Sant Gervasi - la Bonanova,41.4096367,2.1296368239861,4adcda53f964a520464221e3,La Balsa Restaurant,Mediterranean,2,8.5,69.0,Sarrià-Sant Gervasi
+Sant Gervasi - la Bonanova,41.4096367,2.1296368239861,52de3d0911d2891dd85b2296,Blaucafe,Spanish,1,6.9,7.0,Sarrià-Sant Gervasi
+Sant Gervasi - la Bonanova,41.4096367,2.1296368239861,4adcda53f964a5204d4221e3,Casa Pepe,Tapas,3,7.1,21.0,Sarrià-Sant Gervasi
+Sant Gervasi - la Bonanova,41.4096367,2.1296368239861,4b851dcdf964a520a04c31e3,Bisi Bisau,Mediterranean,2,6.5,7.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4c28fac497d00f47adb840ea,Kuo,Japanese,2,8.2,188.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4adcda55f964a520f54221e3,Oliana Restaurant (L'),Mediterranean,2,8.1,27.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4de0157ed4c040523e9b9dfa,Carlitos,Spanish,2,8.7,96.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4b8ade36f964a5203b8632e3,Abasolo Etxea,Spanish,2,8.5,34.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,57e6d6e7498eddfb90d06aee,Iluzione,Italian,2,8.2,38.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4be832f7c5220f47c56ba9ca,Bambarol Bar Restaurant,Mediterranean,2,8.9,73.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bc711956501c9b6daaf3d29,Byblos,Falafel,1,8.0,46.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4b5efde4f964a5204fa129e3,habitual cafe,Mediterranean,2,8.1,8.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,56fff0df498e58f729dabfe0,Pinhan Café,Mediterranean,2,8.0,50.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,53b6f7de498e4b19fef01265,Delhi Darbar,Indian,2,8.0,26.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bcc216cb6c49c74ed3d9391,Antigua,Mediterranean,2,8.3,137.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,587b3c216d349d17a05c3b59,mastico.,Tapas,3,7.7,17.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4c3afada1a1cd13ae58bb50d,Café Turó,Spanish,2,7.6,106.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,54772579498edded4501cd35,Els pinxus,Tapas,3,7.8,61.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bef033ad1b7d13a5931cdec,Jaipur Palace,Indian,2,7.7,11.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4adcda55f964a520024321e3,La Bodega,Mediterranean,2,7.6,39.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bc4e8cf0191c9b6a3ceeab1,Los Años Locos,Argentinian,2,7.4,22.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bb4bc11bc82a593cbbb3e72,Indochine,Asian,2,7.0,41.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4bbf82d4f8219c74e619b010,Restaurant Roma,Mediterranean,2,7.4,20.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4c0f7467336220a1c2becd77,Los Inmortales (La Trattoria),Italian,2,7.0,11.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,5672b946498e37990c6fed33,Restaurante japonés Yi Duó,Sushi,2,6.4,8.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4db83889f7b15ca52ce552cf,Yamane Café,Japanese,2,6.6,13.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,5595948a498eb4d6fa2dd801,Borsalino,Italian,2,6.2,8.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4ece39fe0e61efa32e86fb84,Casa Varela,Mediterranean,3,6.4,58.0,Sarrià-Sant Gervasi
+Sant Gervasi - Galvany,41.39780705,2.143379993225907,4c2b36292219c928862ba448,Xewu II,Japanese,2,6.0,26.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4bc4a3edf8219c7488a5b710,Hidalgo,Mediterranean,2,8.8,40.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,5880b7edd25ded78b09f2cb1,Un' Altra Storia • Casa de menjars,Italian,2,7.6,12.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4bd9db193904a59332e8439e,La Taberna de Lesseps,Mediterranean,3,8.6,48.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4dfd03b6227185f38b96f1bf,L'Osteria del Contadino,Italian,2,8.0,30.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,51efd027498ecba47003eead,Marisqueria de Balmes,Seafood,3,7.8,16.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4cfce7557945224be1948de7,Bar La Palmera,Tapas,3,7.8,11.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4bf4e67fed30b7137127f49a,Bar Pepeta's,Spanish,2,7.2,13.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,517ba524498e982bac8014c4,El Refugi De Sant Gervasi,Tapas,3,6.8,7.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4bc85f010050b7136d32ba3b,El Pescadito de Balmes,Seafood,3,7.0,19.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4be8646b947820a1b5d8b4db,El Pibe,Fast Food,2,6.8,42.0,Sarrià-Sant Gervasi
+el Putxet i el Farró,41.4074756,2.143283241998689,4c363dca18e72d7fbf7c14f5,Sapor D'Italia,Italian,2,6.3,8.0,Sarrià-Sant Gervasi
+Vallcarca i els Penitents,41.41571215,2.1414692584443404,5278f0ab498e79c5cb4befe9,Granja Bar Antonio,Spanish,2,7.0,7.0,Gràcia
+el Coll,41.4179072,2.1480753,584dda2ff22995086684362a,Mala Hierba,Mediterranean,2,8.2,28.0,Gràcia
+la Salut,41.411865999999996,2.1539613999999996,4e788e6962e1b76aa3b5efb0,Bar Piranya,Paella,3,6.4,31.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,5425d07d498e78cec49d8fc1,Gasterea,Tapas,2,9.1,148.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4f6bab1ee4b0e428409e80cc,Karakala,Mediterranean,2,9.0,74.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,51a8e06f498e01bc2ad1b33b,Polleria Fontana,Tapas,2,8.6,98.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,523de65c11d2076f1c620a5d,Quinoa Bar Vegetarià,Vegetarian / Vegan,1,9.0,269.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b197ab8f964a52018de23e3,Kibuka,Sushi,3,8.5,329.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,51c89d92498e31c151d13c7a,La Xula Tapería,Tapas,3,8.2,135.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4dc02f2443a147cd6ed2c572,Momos,Asian,2,8.6,309.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,50c212eee4b02a8da2b09692,La Macchina,Italian,2,8.8,383.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,56d8bdc8cd1020ad7fc98d00,Kitsune,Japanese,2,8.4,85.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4d5d90f5e7f7548183362697,WokVerdi,Chinese,1,7.9,40.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,526ac8cf11d27edb8f7ad85d,Mexcla,Mexican,2,7.9,98.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b0fd971f964a5206e6523e3,Ugarit,Falafel,2,7.9,125.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4e675825c65be127eedad1ca,Somodó,Asian,2,8.5,74.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b63585cf964a52081732ae3,Taverna El Glop,Mediterranean,2,8.3,276.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b6fc81af964a52060fc2ce3,Sol Soler,Tapas,1,7.9,287.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b71c845f964a520265c2de3,La Singular,Mediterranean,2,9.0,230.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4adcda4df964a520f63f21e3,Botafumeiro,Seafood,2,8.8,815.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4d975323178e60fc96036d60,La Vermuteria del Tano,Tapas,3,8.5,128.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4caf8a46562d224bd8d80e88,La Terreta,Tapas,3,7.8,123.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b9fe429f964a5200b4837e3,La Caravana,Falafel,1,9.0,103.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b79b46cf964a520620c2fe3,L'Arrosseria Xàtiva,Paella,3,7.5,75.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4c0964907e3fc928f2e5f182,Kibuka,Sushi,2,8.4,591.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,5a0f58db8b98fd70849890e1,Jabato,Tapas,3,8.7,22.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4b7e9182f964a5202df32fe3,Can Xurrades,Mediterranean,2,8.5,66.0,Gràcia
+la Vila de Gràcia,41.4031783,2.1571662,4c154cb17f7f2d7fc147e268,Veg World India,Vegetarian / Vegan,2,7.9,119.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,4c604873b6f3be9af4e65e73,Bodega Can Ros,Tapas,2,8.4,138.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,4c5a939db05c1b8d577ed8b1,Vermuteria Lou,Mediterranean,2,8.2,105.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,4c0ab162009a0f475fe1e9bf,L'Ombú,Spanish,2,7.8,32.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,5b644cd2d03360002c1a5450,A Veiga,Mediterranean,2,7.7,7.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,57372bd6498e2c074a46f9a0,Fukamura,Sushi,2,8.2,33.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,5450033d498e9d6e832c2da9,Totoro,Japanese,2,7.6,76.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,4ff02ebfe4b04bc47be87803,Kaguya-Hime,Sushi,2,7.8,97.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,55d23cd1498ed192565c1da9,Croq&Roll,Tapas,2,7.5,52.0,Gràcia
+el Camp d'en Grassot i Gràcia Nova,41.406705650000006,2.165419141994485,598e00385d0fea7b17d91560,Lluritu,Seafood,3,7.4,24.0,Gràcia
+el Baix Guinardó,41.4114408,2.1685096157151,4dd676cdd1647fcf3e31b964,Belle e Buòn,Italian,2,9.2,86.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,50925950e4b078f92c3d63b4,El Rey Del Jamon,Tapas,3,7.5,6.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4d95d15ca2c654816ac2af53,Marisquería A Estrela Galega,Spanish,2,7.5,8.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4daeccb4cda1ea0bb044fdd5,Ginés,Seafood,3,7.0,11.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,5841e2bc26a953159f783228,KoiKoi,Japanese,2,7.3,16.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4d964620647d8cfad0b3b53d,Asagaya,Japanese,2,7.2,27.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,55325303498e1648d9aefd9d,Estel de Sant Pau,Tapas,3,7.4,10.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4b814180f964a520639c30e3,Teppan-Ya,Japanese,2,7.1,59.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4b5b136cf964a5205ae228e3,Central Catalana del Pollastre,Fast Food,1,6.3,18.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4cde6c387e2e236a96257f1b,Bar Rest. Balouta-4,Tapas,3,5.8,2.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,573b8309498eac25e1946230,El Porró de L'Avi,Tapas,3,6.0,9.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4c00e54c8c1076b0e1ce2071,Can Chen,Tapas,3,5.7,7.0,Horta-Guinardó
+el Baix Guinardó,41.4114408,2.1685096157151,4cb98e4243ec6dcbe7c49d31,Maravilloso Chino,Chinese,1,5.6,3.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4e29e65ab0fbc2edac10c598,Terra Mia,Italian,2,8.2,60.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4d7be041cf3f3704e03e4540,El Mirador,Spanish,2,7.7,11.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4adcda55f964a520094321e3,Tibet,Spanish,2,8.1,13.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4ba60aabf964a520c62f39e3,Delicias,Spanish,2,8.4,185.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,5351378d498ee83b7075fe4c,El Mirador,Tapas,3,6.9,9.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4d3ae01c81258cfacb03ab5f,Hai Tian,Chinese,1,6.1,11.0,Horta-Guinardó
+Can Baró,41.41696560000001,2.162693411525633,4b40f463f964a52026be25e3,Jardí de l'Àpat,Spanish,2,5.6,39.0,Horta-Guinardó
+el Guinardó,41.417733500000004,2.1736316,50004553e4b0feba28289ced,La Cucina Di Pulcinella,Italian,2,8.0,13.0,Horta-Guinardó
+el Guinardó,41.417733500000004,2.1736316,4cb069d539458cfa2f5f02a0,Tomy Tapas,Tapas,3,6.9,16.0,Horta-Guinardó
+el Guinardó,41.417733500000004,2.1736316,4f1aad03e4b05c50e1c3d460,La Llauneta del Guinardó,Tapas,3,6.4,13.0,Horta-Guinardó
+la Font d'en Fargues,41.4243638,2.1653197174917858,51bccc54498e4bed52d83a7f,Bar Restaurant La Columna,Spanish,2,8.5,9.0,Horta-Guinardó
+la Teixonera,41.423173,2.1459697999999996,4c692d933bad2d7f1017afee,Bar Plaza,Spanish,2,7.0,7.0,Horta-Guinardó
+la Teixonera,41.423173,2.1459697999999996,4c7817e893ef236a9015ab0f,Patio Andaluz,Spanish,2,5.5,10.0,Horta-Guinardó
+Sant Genís dels Agudells,41.4264567,2.1374904999999997,4fe45234e4b03df94ca268d4,Vall Parc Restaurant,Tapas,3,6.2,5.0,Horta-Guinardó
+Montbau,41.4295504,2.1445379,4c8b7e17e51e6dcb37a172de,Casa Ovidio,Spanish,2,8.0,22.0,Horta-Guinardó
+Montbau,41.4295504,2.1445379,4e2c4a58227197a112e23223,El corner de Montbau,Argentinian,2,7.6,7.0,Horta-Guinardó
+Montbau,41.4295504,2.1445379,4e4d1d837d8bdc6f3359de4c,Restaurant xinès Jardín J.L.,Chinese,1,6.2,6.0,Horta-Guinardó
+la Clota,41.42864605,2.153520064602985,4adcda55f964a5200d4321e3,Can Travi Nou,Spanish,2,8.3,166.0,Horta-Guinardó
+la Clota,41.42864605,2.153520064602985,4c264b76f1272d7f5a4e86c5,Restaurant Paraiso Oriental,Chinese,1,7.0,21.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,52a37d4b11d2c18af2f3eae0,Vinomio,Tapas,3,8.6,19.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4c548ed24623be9ab573f9f2,Es Bandoler,Spanish,2,7.9,18.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4e97348a0aafdb60e0c74acf,Casa Leto,Tapas,3,7.8,14.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4ebbc025be7b329d908fe708,Restaurante Alvar,Mediterranean,2,7.3,11.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,55394e05498ea7f8df62ea5c,La Fonda d'Horta,Tapas,3,6.5,8.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4cf95268c51fa1cd1ae3d92b,Frankfurt Julia,Tapas,3,6.6,8.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4ca89d18b7106dcb7e0d74a5,restaurante can xus,Mediterranean,2,6.0,11.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4e56a51cd1644d1d36fd9dff,El Frankfurt Julia,Spanish,2,5.8,6.0,Horta-Guinardó
+Horta,41.4330206,2.1590882999999996,4c49df3aa3ace21e680b333c,La Taberna de Ali-Baba,Spanish,2,6.0,7.0,Horta-Guinardó
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,54bab0bc498ee6c3dd5022fc,La Cholita,Tapas,3,8.6,68.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,4adcda4df964a520174021e3,La Esquinica,Tapas,2,8.5,422.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,55847c26498e3d1f85e8647b,Woki,Asian,2,7.6,9.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,4bf90d8a5317a59322b3007f,Txapeldun - Egarri,Spanish,2,7.6,89.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,51caee7e498e6fad8b81bd95,Restaurante Kobe,Sushi,2,7.3,59.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,5712a140cd10d64b1ed0598a,Trattoria Italia,Italian,2,7.2,6.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,4d99c9269079b1f7788e490a,Wok-Ying,Japanese,2,6.5,7.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,4e466d7262845e1d3c90b645,Boca&Boca,Seafood,3,6.3,45.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,5aba8c43e97dfb20fc4bc10f,Burger King,Fast Food,1,5.9,1.0,Nou Barris
+Vilapicina i la Torre Llobeta,41.4282072,2.1740925584636916,4d238e2e53e4a0934f368077,Pizzeria la B,Italian,2,6.0,16.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4cde837c69136dcb2a99d6e6,La Bodegueta d'en Miquel,Tapas,3,8.4,33.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4b7ead81f964a520b3f82fe3,El All i Oli,Spanish,2,7.4,51.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4c4206cbcc410f476d21ac61,Ikaro,Spanish,2,6.6,7.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4bdadf583904a5936da9479e,Tokio,Japanese,2,6.0,14.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4ba22be7f964a52017e137e3,Los Pinchitos,Tapas,3,6.0,12.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4c31d0753896e21e7380e790,Restaurante Alcudia,Spanish,2,5.8,7.0,Nou Barris
+Porta,41.43489810000001,2.1780057817289618,4baa7583f964a5201b6c3ae3,Bona Tapa,Spanish,2,5.6,6.0,Nou Barris
+el Turó de la Peira,41.43278415,2.1683023231058653,4ce91875e1eeb60c302da7ae,La Bacardina,Tapas,3,6.2,11.0,Nou Barris
+la Guineueta,41.43903155,2.1685445311625853,4c9607386b35a143d4202adc,Casa Castro,Seafood,3,7.0,11.0,Nou Barris
+la Guineueta,41.43903155,2.1685445311625853,55a94758498ee54a8d91fe59,Casa Angelita,Seafood,3,6.2,9.0,Nou Barris
+la Guineueta,41.43903155,2.1685445311625853,4bd20c6f046076b0351b7371,El Pibe,Fast Food,1,6.3,5.0,Nou Barris
+Canyelles,41.44514885,2.163382630871875,4bcc5e11937ca593c3eeaa92,Restaurante 5 Hermanos,Mediterranean,2,7.3,17.0,Nou Barris
+Verdun,41.44243825,2.175299277185351,4c2ca610ae6820a1f89e1943,La Freidu,Spanish,2,7.8,14.0,Nou Barris
+Verdun,41.44243825,2.175299277185351,501ebaa4e4b0d43ab64c678a,La Bodegueta d'en Miquel,Tapas,3,7.7,22.0,Nou Barris
+Verdun,41.44243825,2.175299277185351,4c5ad3ae67ac0f47c798074c,Conde Drácula,Spanish,2,5.9,40.0,Nou Barris
+la Prosperitat,41.4426463,2.1822569579157225,50e828bde4b0cc74f0803b9d,Bar Restaurant La Peña,Spanish,2,6.2,6.0,Nou Barris
+la Prosperitat,41.4426463,2.1822569579157225,4e21ef45628469a5741b44b0,Taberna Andalussa Dunia,Tapas,3,6.2,8.0,Nou Barris
+la Prosperitat,41.4426463,2.1822569579157225,4b7fbf29f964a520ed3b30e3,Bar Marvic,Spanish,2,5.8,4.0,Nou Barris
+la Trinitat Nova,41.449507200000006,2.1826925,4e31bb0b45dd720580b171be,Restaurante El Cordero,Spanish,2,6.2,13.0,Nou Barris
+Baró de Viver,41.44593355,2.19878770617065,4b7d4565f964a520afb52fe3,Wok You,Asian,2,5.8,24.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4be9d231ca97d13ac3746c77,Restaurant Bar Marin,Tapas,3,7.3,13.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4adcda55f964a5200f4321e3,Rabasseda,Spanish,2,7.2,7.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4c3389af16adc9288ccac39c,Pekin Ciudad,Asian,2,7.2,5.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,5504334d498ed871975ce73b,El Palomo Cojo,Spanish,2,7.6,12.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4c064feed3842d7fa15fbf41,Lagar Restaurant,Mediterranean,2,7.9,23.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4c8885807223b1f7ec5b2ca8,Taverna Can Roca,Spanish,2,7.0,32.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4c0020cdca1920a1abe4ed81,O'Rincon Galego,Tapas,3,7.8,9.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,55146ac6498e35d640529c15,El Balista,Argentinian,2,6.9,21.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4d440eff1b62b1f7268aeee2,Restaurante Shokudo,Japanese,2,7.5,47.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,52287387498e8d61e82c46e9,L'Antic Colmado,Spanish,2,7.0,33.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4b8a7a14f964a520696e32e3,La Divina,Tapas,2,7.2,78.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4dd7c878fa76ad96d12c9761,La Tapadera,Tapas,3,6.8,8.0,Sant Andreu
+Sant Andreu,41.4354095,2.1898201,4b9d16aaf964a5208e8e36e3,Meridiana Dürüm Kebab 486,Falafel,1,6.7,3.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4e18b61d18a8166f738f1ed0,Braseria Meson Pahi,Spanish,2,7.4,11.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4c38cbfadfb0e21ea648afa8,La Paradeta,Seafood,2,6.9,35.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4c1a3eb1b4e62d7f2a74d793,La Font de la Sagrera,Tapas,3,6.2,19.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4d7c919a34f7721ed949c825,Casa Angel,Spanish,2,5.8,9.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4d9619b30caaa14388036fb3,Estació d'Enllaç,Spanish,2,5.9,7.0,Sant Andreu
+la Sagrera,41.423749900000004,2.189582,4d5ae90f24466ea893d0869f,Prime Döner Kebab,Falafel,1,5.8,2.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4f7d904410810a8701fd9672,Toca Teca,Tapas,2,8.7,123.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4befed1cc601a593bf14c3d1,Bodega Luis,Tapas,3,8.0,26.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4cc737a806c25481759ca647,Río Dragón,Chinese,1,8.5,60.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4bfa776f8d30d13a69960318,La Gamba,Spanish,2,7.8,52.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4d4fea5ac5ff6ea81d289507,Can Pere Tapes,Tapas,3,6.9,14.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,53af058c498e53a1872cf187,Valentino's,Tapas,3,5.7,5.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,4bc072952a89ef3b9c80f088,Bar Obón,Tapas,3,5.7,12.0,Sant Andreu
+el Congrés i els Indians,41.4237161,2.1808514441503632,518d4afb498ea74f86f5a161,El Racó de l'Opa,Tapas,3,5.7,5.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4d7a97237451236a4e70e4fe,Miseria e Nobiltà,Italian,2,8.8,118.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4c927e0f911b8cfaf5c5edb5,Fujiyama,Japanese,2,6.9,40.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4b7a8ec9f964a52016312fe3,Cantina Mexicana Chihuahua,Mexican,1,7.2,51.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4c4f331624edc9b643874dbb,A Cañota,Spanish,2,7.3,49.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,51d13bf5498e45e360d55a9d,La Granota & Co,Tapas,3,7.2,8.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4cc2045ebe40a35dc1aa6e4c,Il Capriccio Napoletano,Italian,2,7.3,14.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4c93db3e58d4b60c9a232329,El Establo,Argentinian,2,7.1,7.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,5378a107498e8181c0561a5a,El Timbalet,Tapas,3,6.8,10.0,Sant Andreu
+Navas,41.41817775,2.185133615931313,4d9616e761a3a1cdce619342,Casa De Cuenca,Spanish,2,6.3,7.0,Sant Andreu
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4d094d8d143cb60c3ee37fa6,Il Piccolo Focone,Italian,2,8.4,56.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4e70b2dab3ad44d0b7433069,He Cheng,Chinese,1,8.3,48.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,56c0600bcd10c0f8fd354239,Restaurante El Clot,Mediterranean,2,8.8,52.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4c2a54d9c758e21e6c793a3f,Kailash Restaurante Tibetano,Asian,2,7.5,44.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,52dd39ed498ea51e16dc0e90,"Enrique Tomás - Rogent, 19",Spanish,2,7.6,11.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,55864d60498eb972451004f8,El Rovell del Clot,Mediterranean,2,7.3,20.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4d036a3a9d33a1438ffdb378,L'Ombra,Mediterranean,2,7.1,9.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4ca099ec542b224b521d07a0,Paradis D'or,Chinese,1,6.9,7.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4cf401bde3b9a093dab64c53,Londres 2,Spanish,2,6.2,4.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4fbeb3fe121d5fe961f0bf9f,Pinxo Panxo Bar,Tapas,3,6.2,9.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4c90b11f1adc37045a5129d1,Toscana,Italian,2,6.0,10.0,Sant Martí
+el Camp de l'Arpa del Clot,41.4107542,2.1828156,4c6d237946353704ac2708bc,L'oliva,Spanish,2,5.9,10.0,Sant Martí
+el Clot,41.4099525,2.1908234,5b58a6dd270ee7002c2e5959,La Revolta,Tapas,3,8.5,9.0,Sant Martí
+el Clot,41.4099525,2.1908234,4adcda55f964a520074321e3,Can Pineda,Spanish,2,8.6,34.0,Sant Martí
+el Clot,41.4099525,2.1908234,4bbb22e53db7b713eff1239a,Els Tres Porquets,Mediterranean,2,8.0,107.0,Sant Martí
+el Clot,41.4099525,2.1908234,554227ac498ecd5cf6c720de,L'Actiu Restaurant,Mediterranean,2,8.1,55.0,Sant Martí
+el Clot,41.4099525,2.1908234,4c9f1373d3c2b60cb277d1bc,Marlen - Tastets,Tapas,3,7.5,22.0,Sant Martí
+el Clot,41.4099525,2.1908234,553b95a5498eb15a4e393f56,L'Olivera,Spanish,2,8.9,96.0,Sant Martí
+el Clot,41.4099525,2.1908234,4b9a11a8f964a520739d35e3,Casa Aliaga,Spanish,2,8.1,35.0,Sant Martí
+el Clot,41.4099525,2.1908234,4e50020f8877402b06cc0414,Salon Amistad,Chinese,1,7.4,6.0,Sant Martí
+el Clot,41.4099525,2.1908234,4c03bd629a7920a19a3ed079,Ca la Margui,Spanish,2,6.9,8.0,Sant Martí
+el Clot,41.4099525,2.1908234,4ca87cf376d3a093131c166b,A Ruta Galega,Spanish,2,6.6,26.0,Sant Martí
+el Clot,41.4099525,2.1908234,55fc7443498ed5a53e433e3d,El patio de mi casa,Tapas,3,6.7,6.0,Sant Martí
+el Clot,41.4099525,2.1908234,4c31d6efed37a593e9dc6a03,Restaurante Carrasco e hijos,Spanish,2,6.7,4.0,Sant Martí
+el Clot,41.4099525,2.1908234,4fa678f3e4b0fed482906788,Yoshinoya-8,Asian,2,6.5,33.0,Sant Martí
+el Clot,41.4099525,2.1908234,4bc6ef0f92b376b060c64e3a,Bar Lafuente,Tapas,3,6.2,17.0,Sant Martí
+el Clot,41.4099525,2.1908234,4d335445329e5481a0afb81d,Cafè Bar El Paso,Tapas,3,5.7,11.0,Sant Martí
+el Clot,41.4099525,2.1908234,4cbda01243ec6dcb5005b831,Silva,Mediterranean,2,5.7,5.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,522fbcca11d25277d8a2e467,Sopa,Vegetarian / Vegan,1,8.3,261.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5abcc94d4ac28a74c3a07fdb,Tapa Tapa,Tapas,3,8.9,25.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,4e15b15d18384368edd1d202,Market Cuina,Mediterranean,2,8.2,77.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,4cd015942fd9b60c1b1a7feb,Casa Pepe,Mediterranean,2,7.2,33.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,4b755a79f964a520e2072ee3,Bharma,Spanish,1,7.4,98.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,549dc4cf498ecbbfdb5bd347,D9,Tapas,3,7.6,46.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,50ae7a10e412de7a8077328d,Restaurante Jardín,Spanish,1,6.8,30.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,4c8e1aefd2aea093413dcb69,Sal I Pebre,Mediterranean,2,7.3,5.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5a0707dc10345b316966b81a,Odkhuu’s,Tapas,3,7.0,5.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5246a8da498e715e031cbd65,Stop & Mos,Fast Food,1,6.5,11.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5450e312498e4fd387c0f14b,Drink&Eat,Mediterranean,2,6.3,13.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5497348c498e4f438d797385,San Tomassino,Italian,2,6.1,16.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,5257f4f411d2dfa9efa33aa8,La Tagliatella,Italian,2,6.1,88.0,Sant Martí
+el Parc i la Llacuna del Poblenou,41.4007334,2.1913419999999997,4bff817968c7a59359bd4044,A Taberna Galega,Spanish,2,6.1,4.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,5a8c2f409746177d49256319,Ristorante Pizzeria 210 Grammi,Italian,2,7.7,8.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,543ce0a1498ea549c8ddf9a0,Restaurant Ají,Japanese,3,8.4,18.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,579f7316498e4517b74ce243,All You Eat Is Love,Vegetarian / Vegan,2,8.4,29.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4c80f686e602b1f705eb8d7a,Urretxu,Spanish,2,8.7,24.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda55f964a520e84221e3,Marina Bay by Moncho's,Paella,2,8.1,265.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda55f964a520e54221e3,La Fonda del Port Olímpic,Paella,2,8.1,570.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4b79b219f964a520ce0b2fe3,La Barca del Salamanca,Seafood,3,8.1,504.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,546b4877498e3b8d057bd1d7,Ají Ceviche & Sushi,Sushi,2,7.6,18.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4e5645c7aeb7a82688006cb8,Teppan-Yaki,Japanese,2,7.6,10.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,5922d85165cdf831bc2e5fde,Curry Barcelona,Indian,2,6.9,5.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4d5847dae319a1cdceb10e34,Enoteca,Spanish,2,7.3,27.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda54f964a520a94221e3,Bestial,Mediterranean,3,7.8,228.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda55f964a520ef4221e3,El Tinglado,Mediterranean,2,7.6,64.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4ba5403af964a520d0f138e3,El Rey  de La Gamba II,Spanish,2,7.3,16.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4b9e4a63f964a520a6d736e3,La Collita,Mediterranean,2,6.6,16.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4c42f8a43735be9a9fbd1aa4,Chiringuito Las Sardinitas,Paella,2,6.6,74.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4bcf03d5fb84c9b62da3243e,Fresc Co,Mediterranean,2,6.3,31.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda54f964a520b04221e3,Arola,Tapas,3,6.6,45.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4adcda4df964a520304021e3,Barnabier,Spanish,2,6.5,122.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4b91722af964a52028bd33e3,Pizzeria La Vela,Italian,2,6.1,21.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4fdce854e4b0d08714054a14,Pizzeria Roma,Italian,2,6.0,6.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,56c1ce77cd10588a10dda416,Ginos,Italian,2,5.9,8.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,520cb1a611d29818502d6a50,Rincón de Galicia,Spanish,2,6.1,4.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4cc4446d82388cfad5b26d35,Awami,Fast Food,1,5.7,2.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4dc69dbc1f6ef43b8a3276c7,Vitaminas del Mar,Seafood,1,5.7,34.0,Sant Martí
+la Vila Olímpica del Poblenou,41.38980905,2.195555314357464,4e8068427ee685d7eb4c55fd,Palacio Pekín,Chinese,1,5.6,8.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4bb37c412397b713cc2938b3,Melocomo,Italian,2,8.8,37.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5486ee9a498eb82fd664548e,Isami,Japanese,2,7.9,77.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4baaaabcf964a5203d7e3ae3,Can Recasens,Mediterranean,2,8.7,464.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,56b744f7498ecb17d4bdacd6,Bitácora Poblenou,Mediterranean,2,8.6,68.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,54aa7b30498e9722fa8b3416,Tierra del fuego,Argentinian,2,8.0,34.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,56b519c4498e81e730fba505,La Tavernícola,Argentinian,2,9.2,38.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b9b8999f964a520d60d36e3,La Tertulia,Spanish,2,7.9,139.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,588f4b8244587f301f94f1c9,Aguaribay,Vegetarian / Vegan,2,8.7,27.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5130e5aee4b03fa96e19ff84,Enrique Tomás - Rambla de Poblenou,Spanish,2,7.7,16.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5961089a603d2a7c94a37409,Cal Cuc,Asian,2,8.6,50.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5a969e50364d973f1d9492d3,Koh,Asian,2,8.3,17.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5b0c02eb67a9fe002c6724f4,Nolita,Italian,2,8.2,13.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b61a034f964a520a41a2ae3,Racó de la Vila,Spanish,3,8.5,197.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,52912a1111d2721ad033c1e9,Madrelievito,Italian,1,7.9,112.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4caef03d75ebb60c72f9b7ad,El Pipa,Spanish,2,7.3,12.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4e9d9e1cc2ee2113cb62d7cf,Neko Taller de Sushi,Sushi,2,7.9,34.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b5585e8f964a5206ce627e3,Vanguard,Mediterranean,2,7.2,9.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4c2207c411de20a12a2684ce,Soco,Mediterranean,2,7.4,91.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,599364ef8194fc23c59e50ec,Kalamata,Tapas,3,8.0,12.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4bf93e675ec320a1e5df89d3,Nice Spice,Indian,2,7.4,48.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4c406d0ad7fad13ac7e905da,Bar Ivan,Spanish,2,7.6,11.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5300a7b4498e668380b7dda9,Vermut & Sifó,Tapas,2,7.3,49.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,514e0962e4b02f9bfc588fd5,Sitar,Indian,2,7.4,69.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4bef1f72c80dc928818927e3,Kuletos,Spanish,2,7.2,42.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,537bb18a498e28987dafcf86,Taberna Trueta 218,Tapas,3,7.1,12.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5b4909c7e96d0c0039adfec3,La Taquería,Mexican,1,7.0,11.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b87bc38f964a52054c931e3,Ristorante Piazza Grande,Italian,2,7.2,20.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4cd1c1f706b54688f580e294,Pronto Doner Kebab,Indian,2,7.2,8.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4def818ab0fbe76bc3c4db69,La Forquilla,Mediterranean,2,7.5,11.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4cc970714650a35d814d8e1e,Racó del Taulat,Mediterranean,2,7.3,12.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b717f10f964a520a9492de3,Timbal,Tapas,3,7.2,39.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4da9a2471e72c1ab9bdfb93f,La Carmanyola,Paella,3,7.4,19.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b77f431f964a520ffaf2ee3,Els Pescadors,Seafood,3,7.4,151.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4c45eba3342c1b8d0617b589,Sundown,Falafel,1,6.8,25.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4c98d10b7b9d3704a853e185,Bar Restaurant Otro Romero,Spanish,2,6.9,17.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,551eb4f5498e42740fd74941,El Barrustrillo de Irene,Mediterranean,2,7.2,11.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,5285341911d27757178d7a35,Bar Bon Gust,Chinese,1,6.6,5.0,Sant Martí
+el Poblenou,41.400527000000004,2.2017292,4b64043ff964a520669b2ae3,La Pubilla del Taulat,Tapas,3,6.8,66.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4b800706f964a520ed4b30e3,Traspaso,Mediterranean,2,8.5,215.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4bfbc05ed0382d7f7d01ca0a,L'ham Restaurant,Mediterranean,2,7.6,8.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4ba7d4b6f964a5203fb739e3,L escola Restaurant,Mediterranean,2,7.3,12.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4be42362cf200f475382113c,Bar Andalucía,Spanish,2,8.6,35.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4c88d10b0f3c236ae88ff55c,La Cantina PaloAlto,Mediterranean,2,7.3,20.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4b67481ef964a520a6452be3,McDonald's,Fast Food,1,5.7,2.0,Sant Martí
+Diagonal Mar i el Front Marítim del Poblenou,41.40317275,2.2133813695484883,4e2daaa6227197a112f03fd5,Boo Restaurant Chill Out,Spanish,2,5.9,71.0,Sant Martí
+el Besòs i el Maresme,41.4149787,2.2138765,4e359a52a8092599ee069a64,Bar Nino,Spanish,2,7.1,26.0,Sant Martí
+el Besòs i el Maresme,41.4149787,2.2138765,4d7cc068f260a09347b03fba,L'Illa del mar,Tapas,3,6.3,6.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,4d7e19ca95c1a143ed84caf2,Restaurant Siberia,Spanish,2,7.1,9.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,51badfa9498e8af5adb51372,Fisterra,Mediterranean,2,7.9,41.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,4bae7702f964a520c7b53be3,RESTAURANTE PAMPA MIA,Argentinian,2,6.6,11.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,4b92c7cff964a5200e1b34e3,El Gran Mundo,Asian,2,6.4,15.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,4d8b498899c2a1cdccdda1d7,Catalunya Döner,Falafel,1,6.4,18.0,Sant Martí
+Provençals del Poblenou,41.412360250000006,2.2048853341819434,548c40c0498eb38fd05c2daf,Wok Ronda,Asian,2,6.0,23.0,Sant Martí
+Sant Martí de Provençals,41.416518599999996,2.1989682999999998,4b852b19f964a520104f31e3,Foxos,Spanish,2,7.8,21.0,Sant Martí
+Sant Martí de Provençals,41.416518599999996,2.1989682999999998,4d9b601773df8cfa2e9ff5ec,El Manolo,Spanish,2,7.5,70.0,Sant Martí
+Sant Martí de Provençals,41.416518599999996,2.1989682999999998,508c2bcfe4b06da582628858,rubick,Tapas,3,6.1,4.0,Sant Martí
+Sant Martí de Provençals,41.416518599999996,2.1989682999999998,4be43573d4f7c9b668cc2320,Los Porrillos,Mediterranean,2,5.6,12.0,Sant Martí
+la Verneda i la Pau,41.4232198,2.202940152045822,5572291c498e82a42082a7d0,maestro döner kebab,Fast Food,1,5.7,3.0,Sant Martí
